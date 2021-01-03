@@ -6,6 +6,7 @@ body {
     box-sizing: border-box;
     overflow-y: hidden;
     font-family: 'lato',sans-serif;
+    background-color:whitesmoke;
 
 }
 
@@ -14,12 +15,13 @@ body {
     font-size: 14px;
     font-weight: 700;
     letter-spacing: 0.2rem;
-    background: rgba(4, 128, 211, 0.6) !important;
+    background:black!important;
+    background-color:whitesmoke;
     padding: 20px 0;
     
 
 }
-.navbar-dark .navbar-item .nav-link{
+.nav-link{
     color: #fff;
     padding-left: 20px;
 
@@ -35,9 +37,7 @@ section.row {
     margin-right: auto;
     margin-left: auto;
 }
-#logo{
-    position:absolute;
-}
+
 
 #about-image {
     float: left;
